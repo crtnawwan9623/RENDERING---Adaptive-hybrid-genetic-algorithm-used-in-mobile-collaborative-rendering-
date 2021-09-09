@@ -1,0 +1,1 @@
+# Adaptive-hybrid-genetic-algorithm-used-in-mobile-collaborative-rendering-
